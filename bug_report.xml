@@ -1,1 +1,11 @@
-
+<bag_reports>
+  <№>..</№>
+  <Severity>..</Severity>
+  <Environment>..</Environment>
+  <Title>..</Title>
+  <Steps>..</Steps>
+  <ER>..</ER>
+  <AR>..</AR>
+  <Link>..</Link>
+  <TG_Nick>..</TG_Nick>
+</<bag_reports>
